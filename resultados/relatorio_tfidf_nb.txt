@@ -1,0 +1,12 @@
+Métricas de Avaliação do Modelo (Abordagem Estatística TF-IDF)
+Acurácia Geral: 84.62%
+
+Relatório de Classificação Detalhado:
+              precision    recall  f1-score   support
+
+    Fake (0)       1.00      0.71      0.83         7
+    Fato (1)       0.75      1.00      0.86         6
+
+    accuracy                           0.85        13
+   macro avg       0.88      0.86      0.85        13
+weighted avg       0.88      0.85      0.84        13
